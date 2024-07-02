@@ -33,8 +33,7 @@ Blog-Hub is a modern, responsive web application designed to showcase blog posts
 ## Installation
 
 To get started with Blog-Hub, follow these steps:
-
-1.  **Clone the repository:**
+1. Clone the repository:
 
    ```sh
    git clone https://github.com/K-Musty/Blog-Hub.git
