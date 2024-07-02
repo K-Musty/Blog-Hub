@@ -11,7 +11,7 @@ Blog-Hub is a modern, responsive web application designed to showcase blog posts
 - [Project Structure](#project-structure)
 - [API Integration](#api-integration)
 - [About](#about)
-- [License](#license)
+- [Authors](#authors)
 
 ## Features
 
