@@ -129,7 +129,7 @@ export const getRecentPosts = async () => {
   return data.posts;
 };
 
-About
+## About
 
 Blog-Hub was inspired by the need to create a modern and responsive blog platform that leverages the power of GraphQL, Next.js, and Tailwind CSS. This project was developed as a portfolio project for Alx School.
 
