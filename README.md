@@ -64,7 +64,7 @@ Fetching and Displaying Posts
     Categories: Organizes posts into different categories for easy navigation.
     Post Details: View the detailed content of each post by clicking on the post title.
 
-###Navigation Bar
+### Navigation Bar
 
 - The navigation bar allows users to easily navigate between the home page, categories, and the blog section.
 Project Structure
