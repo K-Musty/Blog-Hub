@@ -91,6 +91,7 @@ Project Structure
 │   └── ...
 └── ...
 
+
     components: Reusable UI components such as Navbar, PostWidget, etc.
     pages: Next.js pages including dynamic routing for posts.
     styles: Global and component-specific styles.
