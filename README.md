@@ -1,5 +1,6 @@
 # Blog-Hub
 
+
 Blog-Hub is a modern, responsive web application designed to showcase blog posts with various categories and recent posts. Built using Next.js, Tailwind CSS, and GraphQL, Blog-Hub provides a seamless and interactive user experience. This project also includes a blog section where I document the development process and insights about this portfolio project.
 
 ## Table of Contents
