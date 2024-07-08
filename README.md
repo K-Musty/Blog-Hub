@@ -1,5 +1,6 @@
-# Blog-Hub
+![bh](https://github.com/K-Musty/Blog-Hub/assets/126028995/5d399395-03d2-4f0c-8bbf-f16aedb0a0e1)# Blog-Hub
 
+![BlogHub](https://github.com/K-Musty/Blog-Hub/assets/126028995/23d031d2-ea11-40d2-914c-9f2a340a724e)
 
 Blog-Hub is a modern, responsive web application designed to showcase blog posts with various categories and recent posts. Built using Next.js, Tailwind CSS, and GraphQL, Blog-Hub provides a seamless and interactive user experience. This project also includes a blog section where I document the development process and insights about this portfolio project.
 
