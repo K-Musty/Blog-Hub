@@ -12,6 +12,7 @@ Blog-Hub is a modern, responsive web application designed to showcase blog posts
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [API Integration](#api-integration)
+- [Challenges](#challenges)
 - [About](#about)
 - [Authors](#authors)
 
@@ -130,6 +131,22 @@ export const getRecentPosts = async () => {
   const data = await client.request(query);
   return data.posts;
 };
+
+## Challenges
+
+#### Challenge 1: API Integration
+
+Problem: Integrating GraphCMS and ensuring efficient data fetching with GraphQL.
+Solution: We optimized our GraphQL queries and implemented caching mechanisms to reduce API call overhead.
+#### Challenge 2: Dynamic Routing
+
+Problem: Implementing dynamic routing in Next.js to handle blog post slugs.
+Solution: Utilized Next.js dynamic routes and getStaticPaths/getStaticProps to fetch and render blog posts based on slugs.
+#### Challenge 3: Though Quite Funny, Just a Comma
+
+Problem: We were stuck for more than 24 hours trying to get why it didn’t run at all.
+Solution: We finally found the comma in between an import.
+
 
 ## About
 
