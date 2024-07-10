@@ -133,17 +133,13 @@ export const getRecentPosts = async () => {
 };
 
 ## Challenges
-
 #### Challenge 1: API Integration
-
 Problem: Integrating GraphCMS and ensuring efficient data fetching with GraphQL.
 Solution: We optimized our GraphQL queries and implemented caching mechanisms to reduce API call overhead.
 #### Challenge 2: Dynamic Routing
-
 Problem: Implementing dynamic routing in Next.js to handle blog post slugs.
 Solution: Utilized Next.js dynamic routes and getStaticPaths/getStaticProps to fetch and render blog posts based on slugs.
 #### Challenge 3: Though Quite Funny, Just a Comma
-
 Problem: We were stuck for more than 24 hours trying to get why it didn’t run at all.
 Solution: We finally found the comma in between an import.
 
